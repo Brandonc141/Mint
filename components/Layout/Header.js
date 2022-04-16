@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <>
       <Head>
-        <title>fill in</title>
+        <title>Adagio TVs Mint</title>
         <meta name="description" content="" />
         <link rel="icon" href="/images/favicon.ico" />
       </Head>
