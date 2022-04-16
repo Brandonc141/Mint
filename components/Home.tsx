@@ -385,10 +385,10 @@ const Home = (props: HomeProps) => {
                   <img width={220} src="example.gif" />
                 </div>
                 <h2 className="pt-12 text-lg sm:text-2xl font-mono font-bold py-5 tracking-wider">
-                  Shapes
+                  Adagio TVs
                 </h2>
                 <p className="text-sm sm:text-md font-semibold pb-5 text-gray-600 ">
-                  A collection of shapes on the blockchain
+                333 Unique TVs on the Solana Blockchain
                 </p>
                 {wallet?.connected ? (
                   <>
